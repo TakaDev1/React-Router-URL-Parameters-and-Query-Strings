@@ -1,5 +1,5 @@
 interface SearchResultProps {
-  castegory: string;
+  category: string;
   sort: string;
 }
 
